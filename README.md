@@ -25,6 +25,6 @@ CSS (bootstrap)
 ​
 Javascript, Node.js
 ​
-#  Direct link to example output file:
+#  Direct link to live app:
 
-https://zaydorade.github.io/Note-taker/
+https://sleepy-harbor-86048.herokuapp.com/
